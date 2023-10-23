@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(160, 158, 158);
+}
+
+.form-control {
+    border: 2px solid black;    
+}
+
+thead {
+    border-bottom-style:ridge;
+}
+
+tr{
+    border: 2px solid black;
+}

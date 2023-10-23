@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="stylesheet.css"> <!-- My custom CSS file here -->
+    <title>Contact List App</title>
+</head>
+<body>
+    <div class="container"> <!--This is what makes up my form to fill out to add contacts-->
+        <h1>Contact List</h1>
+        <form id="contact-form">
+            <div class="form-group">
+                <label for="first-name">First Name</label>
+                <input type="text" class="form-control" id="first-name" required>
+            </div>
+            <div class="form-group">
+                <label for="last-name">Last Name</label>
+                <input type="text" class="form-control" id="last-name" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Phone Number</label>
+                <input type="tel" class="form-control" id="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Add Contact</button>
+        </form>
+
+        <table class="table mt-3">
+            <thead> <!--Used my stylesheet to change the bottom white line of thead-->
+                <tr> <!--stylesheet for black border target-->
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Phone Number</th>
+                    <th>Email</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="contact-list"> <!--NOTHING NEEDS TO GO IN HERE-Only a placeholder-NEEDED to show contacts
+                in the browswer-->
+                <!-- Contacts will be displayed here -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+   <!--Your script tag goes here-->
+    <script src="index.js"></script>
+ 
+</body>
+</html>

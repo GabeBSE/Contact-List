@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "firstName": "Gabriel",
+      "lastName": "Avalos",
+      "phone": "111-222-3333",
+      "email": "Fake@gotya.com",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "555-444-1111",
+      "email": "Jon@nothing.com",
+      "id": 2
+    }
+  ]
+}
