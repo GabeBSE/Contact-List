@@ -97,7 +97,7 @@ Your Contact List App is ready to use once it's open in your web browser. Here's
 5. **Styling and Layout**:
 - The project uses Bootstrap for styling, providing a clean and responsive design. You can customize the styling further by editing your custom CSS file, "stylesheet.css."
 
-Your Contact List App is designed for managing a list of contacts. It allows you to add, view, update, and delete contact entries interactively in the web browser.
+The Contact List App is designed for managing a list of contacts. It allows you to add, view, update, and delete contact entries interactively in the web browser.
 
 For any additional features or more advanced usage, you may need to refer to your JavaScript code in the "index.js" file. If you've implemented server communication for data storage and retrieval, ensure that your server is up and running as expected.
 
