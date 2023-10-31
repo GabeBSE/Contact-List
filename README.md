@@ -49,7 +49,7 @@ You can view a live demo at: https://youtu.be/GEoPwPshz-g
    - Web Browser: For testing and running the application.
    - Node.js: Required for running the JSON Server.
 
-## Code snippet 1 
+## Code snippet
 ![my screenshot](https://github.com/GabeBSE/Contact-List/assets/142479589/34d801a9-1592-4652-8fe7-974db7033ec5) <br><br>
 This piece of code relates to the JSON Server I was using. <br><br>
 
