@@ -49,5 +49,5 @@ You can view a live demo at: https://youtu.be/GEoPwPshz-g
    - Web Browser: For testing and running the application.
    - Node.js: Required for running the JSON Server.
 
-## Code snippets **
-![my screenshot](../figures/my_screenshot.png).
+## Code snippets 
+![my screenshot](C:\Users\Valerie\Pictures\Snips screenshots\CS1.jpg).
