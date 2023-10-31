@@ -50,4 +50,4 @@ You can view a live demo at: https://youtu.be/GEoPwPshz-g
    - Node.js: Required for running the JSON Server.
 
 ## Code snippets 
-![my screenshot](C:\Users\Valerie\Pictures\Snips screenshots\CS1.jpg).
+![my screenshot](../figures/my_screenshot.png).
